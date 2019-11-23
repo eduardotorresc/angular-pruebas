@@ -1,3 +1,8 @@
+hello {
+  text-align: center;
+}
+
 p {
+  background: yellow;
   font-family: Lato;
 }
